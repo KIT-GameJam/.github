@@ -1,4 +1,4 @@
-## Hi there 🤟 
+## Heyoo 🤟 
 
 Wir sind **KIT GameJam**, eine Hochschulgruppe für Bereitstellung von Räumen, Verpflegung und technischer Infrastruktur bei GameJams. 
 Zudem Planen wird das regelmäßige Hosten lokaler GameJams mit zugehörigen Workshops.
